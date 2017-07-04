@@ -1,0 +1,18 @@
+{
+  "name": "cordova-plugin-clipboard",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-clipboard",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
+  "description": "Cordova Clipboard Plugin",
+  "repository": "https://github.com/WinGood/CordovaClipboard.git",
+  "issue": "https://github.com/WinGood/CordovaClipboard/issues",
+  "keywords": [
+    "cordova"
+  ]
+}
