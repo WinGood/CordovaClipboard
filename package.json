@@ -1,8 +1,8 @@
 {
-  "name": "cordova-plugin-clipboard",
-  "version": "1.0.0",
+  "name": "cordova-plugin-clipboard-fork",
+  "version": "0.0.1",
   "cordova": {
-    "id": "cordova-plugin-clipboard",
+    "id": "cordova-plugin-clipboard-fork",
     "platforms": [
       "ios",
       "android",
